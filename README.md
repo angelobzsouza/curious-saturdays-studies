@@ -1,3 +1,3 @@
-# PLAYING WITH MEGASENA
+# CURIOUS STATURDAYS STUDIES
 
-This is just a funny project to play with megasena result numbers.
+Sometimes, when you wake up on statudays curious about something, the best thing to do is to get the proof by yourself. This repo is a compilated of codes that I made trying to understand something or validate funny ideias.

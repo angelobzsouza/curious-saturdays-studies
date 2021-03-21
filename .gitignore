@@ -1,0 +1,8 @@
+node_modules/
+.log
+.env
+.tool-versions
+.DS_Store
+__pycache__
+.pytest_cache
+.vscode
